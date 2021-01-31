@@ -1,3 +1,3 @@
 # GuessTheStateGame
 
-"Guess The US State" Game using Pandas and Tkinter
+"Guess The US State" Game using Pandas and Turtle
